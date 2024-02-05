@@ -5,7 +5,7 @@ Esse projeto responsivo de página de receita de um delicioso Cheesecake é dese
 <br/>
 
 
-## 📌 Aprendizados no Projeto de Agendamento de Mentorias
+## 📌 Aprendizados no Projeto de Receita Cheesecake
 
 Durante a execução deste projeto, aprofundei meu entendimento sobre **design responsivo, com ênfase na abordagem Mobile-First**. Priorizar o desenvolvimento para dispositivos móveis desde o início proporcionou uma base sólida para uma experiência do usuário consistente em diversas plataformas.
 
